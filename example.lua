@@ -1,4 +1,3 @@
-require 'yaml'
 require 'leoo'
 
 mixin 'PrettyToString' {
